@@ -5,7 +5,7 @@ import asyncio
 import os
 
 # MongoDB configuration
-MONGO_URI = "mongodb+srv://botuser:botpass123@cluster0.juyoluw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongodb+srv://Celestial_Guard_69:Rrahaman%400000@new-safari-chut.4r34dcg.mongodb.net/?appName=New-Safari-Chut"
 DB_NAME = "guess_bot"
 ACCOUNTS_COLL = "Accounts"
 
@@ -13,7 +13,7 @@ ACCOUNTS_COLL = "Accounts"
 SESSION_NAME = "hexamon_bot_telethon"
 API_ID = 29288199
 API_HASH = "9ff308629870e029601d2ee667821506"
-BOT_TOKEN = "8459680405:AAGxmZF8bJL9kxOKwIFKWnf8jPaa_d5CoiU"
+BOT_TOKEN = "8631614132:AAHn3p1jeguYFWGq-whZWr5aAt71GrnsknQ"
 
 # Initialize MongoDB client
 try:
